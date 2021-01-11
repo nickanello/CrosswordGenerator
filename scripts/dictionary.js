@@ -1,3 +1,8 @@
+/*
+    'dictionary' is an object that retrives definitions of words.
+    For example, dictionary['abandoned'] is 'adj. 1 deserted, forsaken. 2 unrestrained, profligate.'
+*/
+
 const dictionary = {'aardvark': 'n. Mammal with a tubular snout and a long tongue, feeding on termites. [afrikaans]',
 'aback': 'adv.  take aback surprise, disconcert. [old english: related to *a2]',
 'abacus': 'n. (pl. -cuses) 1 frame with wires along which beads are slid for calculating. 2 archit. Flat slab on top of a capital. [latin from greek from hebrew]',
@@ -33550,6 +33555,6 @@ const dictionary = {'aardvark': 'n. Mammal with a tubular snout and a long tongu
 'zucchini': 'n. (pl. Same or -s) esp. Us & austral. Courgette. [italian, pl. Of zucchino, diminutive of zucca gourd]',
 'zulu': '-n. (pl. -s) 1 member of a s. African bantu people. 2 their language. -adj. Of this people or language. [native name]',
 'zygote': 'n. Biol. Cell formed by the union of two gametes. [greek zugotos yoked: related to *zeugma]',
-}
+};
 
 module.exports = dictionary;
